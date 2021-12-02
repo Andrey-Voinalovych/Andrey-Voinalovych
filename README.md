@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋Hi there, I'm Andrey!
+I am Head Of RPA Practice at NTT DATA Business Solutions
+## 📝 Projects
+🔭 I’m currently working on [RPA Developer Roadmap](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap) 
+
+## 🛠️Technologies and Tools
+
 
 <!--
 **Andrey-Voinalovych/Andrey-Voinalovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
