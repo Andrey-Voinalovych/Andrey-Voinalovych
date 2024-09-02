@@ -1,22 +1,7 @@
-### 👋Hi there, I'm Andrey!
-I am Head Of RPA Practice at NTT DATA Business Solutions
+### 👋Hi there, I'm Andrii 🇺🇦 !
+I am DevOps and Architech at SAPI TECH company
+
 ## 📝 Projects
-🔭 I’m currently working on [RPA Developer Roadmap](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap) 
+🔭 Delivered RPA DEV Roadmap in 2021, check it out: [RPA Developer Roadmap](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap) 
 
 ## 🛠️Technologies and Tools
-
-
-<!--
-**Andrey-Voinalovych/Andrey-Voinalovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
